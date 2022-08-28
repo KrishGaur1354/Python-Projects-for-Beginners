@@ -8,9 +8,9 @@ while True:
 
         if numbers == guess:
             attempts = attempts + 1
-            print('Guess in {attempts} attempts. ')
+            print(' Guess in {attempts} attempts. ')
             break
-        elif numbers < guess:
+        elif numbers > guess:
             print("Enter a Higher Number")
             attempts = attempts + 1
         else:
