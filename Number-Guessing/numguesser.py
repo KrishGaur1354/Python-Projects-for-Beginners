@@ -1,3 +1,5 @@
+//Code still in works
+
 import random
 
 numbers = random.randint(0,100)
