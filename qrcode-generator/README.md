@@ -1,6 +1,6 @@
 ## QRCode-Generator
 
-![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
+![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects/qrcode-generator)
 
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
