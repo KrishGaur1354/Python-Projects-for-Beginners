@@ -10,12 +10,12 @@
 
 
 ---
-
+### Game-Layout
 <img src="https://github.com/KrishGaur1354/Personal-Python-Projects/blob/main/The-Epic-Snake-Game/RUNTIME.png">
 
 ---
 
-## Connect with me
+### Connect with me
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
