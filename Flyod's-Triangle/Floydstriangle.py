@@ -1,4 +1,5 @@
 print("Enter the Number of Rows: ", end="")
+
 row = int(input())
 num = 1
 
