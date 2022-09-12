@@ -1,7 +1,7 @@
 import random
 
 def play():
-    print("Wlcome to Rock | Paper | Scissors")
+    print("Welcome to Rock | Paper | Scissors")
     print("r is Rock")
     print("p is Paper")
     print("s is Scissors")
