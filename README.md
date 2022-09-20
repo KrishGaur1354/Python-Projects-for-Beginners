@@ -8,9 +8,6 @@
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
 
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
-<h1>Captcha-Generated :</h1>
-
-![Captcha](https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Captcha-Generator/generate1.png)
 
 <h3><i>Here, I will publish my Personal Python Projects whenever I get the time.</i></h3>
 
