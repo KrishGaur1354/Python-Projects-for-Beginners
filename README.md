@@ -1,4 +1,4 @@
-## Personal-Python-Projects
+<h1>Personal-Python-Projects</h3>
 
 ![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
@@ -8,6 +8,9 @@
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
 
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+<h1>Captcha-Generated :</h1>
+
+![Captcha](https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Captcha-Generator/generate1.png)
 
 <h3><i>Here, I will publish my Personal Python Projects whenever I get the time.</i></h3>
 
