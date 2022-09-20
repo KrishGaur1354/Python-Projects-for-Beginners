@@ -1,4 +1,4 @@
-### Captcha-Generator
+<h1>Captcha-Generator</h1>
 
 ![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
@@ -8,6 +8,10 @@
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
 
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+
+<h1>Code & Output : </h1>
+
+![output](https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Captcha-Generator/captcha_1.png)
 
 <h1>Captcha-Generated :</h1>
 
