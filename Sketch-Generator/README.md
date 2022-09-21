@@ -11,9 +11,18 @@
 
 <h1>Covertion :</h1>
 
-<img src= "https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Sketch-Generator/original.png" >
+<img src= "https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Sketch-Generator/original.png" align = "center" >
 
-## Connect with me
+<h1 align = "center"> |<br>
+                      |<br>
+                      |<br>
+                      |<br>
+                      |<br>
+                     \|/
+</h1>
+<img src = "">
+
+### Connect with me
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
