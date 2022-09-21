@@ -7,22 +7,24 @@
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
 
+---
+
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 <h1>Covertion :</h1>
 
-<img src= "https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Sketch-Generator/original.png" align = "center" >
+<center><img src= "https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Sketch-Generator/original.png" > </center>
 
 <h1 align = "center"> |<br>
                       |<br>
                       |<br>
-                      |<br>
-                      |<br>
                      \|/
 </h1>
-<img src = "">
+<img src = "https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Sketch-Generator/sketch.png">
 
-### Connect with me
+---
+
+<h2>Connect with me: </h2>
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
