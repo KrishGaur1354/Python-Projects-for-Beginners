@@ -14,6 +14,9 @@
 <h1>Code for Progress Bar</h1>
 <img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Progress-Bar/Code-Bar.png" >
 
+<h1>Output for Progress Bar</h1>
+<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Progress-Bar/Code-Bar.png" >
+
 ## Connect with me
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
