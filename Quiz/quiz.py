@@ -34,15 +34,7 @@ def display_score(correct_answers, answers):
     print("RESULTS")
     print("-------------------------")
 
-    print("Answers: ", end="")
-    for i in questions:
-        print(questions.get(i), end=" ")
-    print()
-
-    print("Your answers: ", end="")
-    for i in answers:
-        print(i, end=" ")
-    print()
+    
 
     score = int((correct_answers/len(questions))*100)
     print("Your score is: "+str(score)+"%")
@@ -69,7 +61,7 @@ questions = {
 
 options = [["A. Guido van Rossum", "B. Elon Musk", "C. Bill Gates", "D. Mark Zuckerburg"],
           ["A. 1989", "B. 1991", "C. 2000", "D. 2016"],
-          ["A. Tuples are enclosed with brackets while lists are not", "B. Tuples are bullet points while lists are numbers", "C. Tuples are enclosed within parentheses while list are not.", "D.Tuples are in Roman figures while lists are alphabetical"],
+          ["A. Tuples are enclosed with brackets while lists are not", "B. Tuples are bullet points while lists are numbers", "C. Tuples are enclosed within parentheses while list are not.", "D. Tuples are in Roman figures while lists are alphabetical"],
           ["A. Sets","B. Lists", "C. Tuples", "D. Dictionary"]]
 
 new_game()
