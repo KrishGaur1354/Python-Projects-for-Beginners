@@ -2,6 +2,7 @@
 ![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=KoHo&language=1&name=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 ![Air Quality Monitor](./images/main_window.jpg)
+![Outcome for Country](./images/Germany.jpg)
 ---
 
 ### Connect with me
