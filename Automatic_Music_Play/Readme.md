@@ -1,0 +1,1 @@
+Its an automatic music player which connects you directly to you tube when you enter the name of the song that you want to play. So just the thing is you have to enter the song name and Enjoy your music.✨✨
