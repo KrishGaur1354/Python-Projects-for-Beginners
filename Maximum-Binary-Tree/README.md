@@ -12,7 +12,7 @@
 ---
 
 <h1>Maximum-Binary-Tree Code : </h1>
-<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Progress-Bar/Code-Bar.png" >
+<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Maximum-Binary-Tree/Code-Binary.png" >
 
 <h1>Complexity : </h1>
 <img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Progress-Bar/Output-Bar.png" >
