@@ -15,7 +15,7 @@
 <img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Maximum-Binary-Tree/Code-Binary.png" >
 
 <h1>Complexity : </h1>
-<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Progress-Bar/Output-Bar.png" >
+<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Maximum-Binary-Tree/Complexity.png" >
 
 ## Connect with me
   <a href="https://twitter.com/ThatOneKrish">
