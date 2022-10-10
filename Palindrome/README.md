@@ -15,7 +15,7 @@
 <img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/Insertion-Sort/Code-Insert.png">
 
 ### Output : 
-<img src="https://github.com/KrishGaur1354/Java-Projects-for-Beginners/blob/main/Insertion-Sort/Output%20-%20Insert.png">
+<img src="https://github.com/KrishGaur1354/Python-Projects-for-Beginners/blob/main/Palindrome/palin%20-%20output.png">
 
 ---
 
