@@ -7,7 +7,7 @@
 ![Twitter Followers](https://img.shields.io/twitter/follow/ThatOneKrish?style=social)
 ![Github Profile](https://img.shields.io/github/followers/KrishGaur1354?style=social)
 
-![Java-Projects](https://socialify.git.ci/KrishGaur1354/Java-Projects/image?font=KoHo&language=1&logo=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F05%2FJava-PNG-Clipart.png&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+![Personal-Python-Projects](https://socialify.git.ci/KrishGaur1354/Personal-Python-Projects/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 ---
 
