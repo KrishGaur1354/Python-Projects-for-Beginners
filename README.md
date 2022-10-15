@@ -1,4 +1,4 @@
-<h1>Python-Projects-for-Beginners</h1>
+# Python-Projects-for-Beginners
 
 ![Files-in-repo](https://img.shields.io/github/directory-file-count/KrishGaur1354/Personal-Python-Projects)
 ![Channel Views](https://img.shields.io/youtube/channel/views/UC1x1aok5Ji52Dw6G8_GN59Q?style=social)
